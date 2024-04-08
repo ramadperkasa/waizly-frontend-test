@@ -5,8 +5,8 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 ## Overview Apps
 
 ![No data](https://github.com/ramadperkasa/waizly-frontend-test/blob/master/assets/images/ss-1.png?raw=true)
-![List data](https://github.com/ramadperkasa/waizly-frontend-test/blob/master/assets/images/ss-1.png?raw=true)
-![Weather](https://github.com/ramadperkasa/waizly-frontend-test/blob/master/assets/images/ss-1.png?raw=true)
+![List data](https://github.com/ramadperkasa/waizly-frontend-test/blob/master/assets/images/ss-2.png?raw=true)
+![Weather](https://github.com/ramadperkasa/waizly-frontend-test/blob/master/assets/images/ss-3.png?raw=true)
 
 
 ## Setup
